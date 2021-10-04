@@ -1,0 +1,12 @@
+.footerGrid{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 7px;
+    text-align: start;
+}
+.cusFooter{
+    clip-path: ellipse(85% 90% at 50% 100%);
+}
+.bg-custom{
+ background: rgb(10, 109, 190);
+}

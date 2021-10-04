@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "img":"https://guitarlessons-com.s3.amazonaws.com/media/blog/g-major-chord-hr.png",
+        "name":"Fingering",
+        "description":"Fingerinf is the first and initial stage that should learn every guitarist.It helps to figure out.We teach very carefully and responsiblly this."
+        
+    },
+    {
+        "id":2,
+        "img":"https://image.shutterstock.com/image-vector/basic-guitar-chord-chart-sheets-260nw-1887155839.jpg",
+        "name":"Chord progression",
+        "description":"Chord is the main part to handle a song to sounds good and feels awesome.There is a regulation system to manage and use chord well"
+        
+    },
+    {
+        "id":3,
+        "img":"http://noisecreep.com/files/2013/11/Kirk-Hammett.jpg?w=980&q=75",
+        "name":"Solo learning",
+        "description":"Solo is called the harmony of a song that explains to feel the theme of a song.There are many process to gain various type of solo."
+        
+    },
+    {
+        "id":4,
+        "img":"https://www.uberchord.com/wp-content/uploads/2015/09/Nashville-IN-Fingerstyle-2013_-2664258483-H.jpg",
+        "name":" Guitar Plucking",
+        "description":"Plucking is another excellent items that sounds awesome and feels more awesome.This item is need to compose every song...so you should learn it"
+        
+    }
+]
