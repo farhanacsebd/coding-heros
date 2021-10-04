@@ -1,6 +1,6 @@
 # Project Name : Lerarn Onlinne Guitar
 
-Project link - https://condescending-newton-a559f3.netlify.app
+Project link -https://priceless-swirles-ec64d8.netlify.app
 
 ## Technologies
 
