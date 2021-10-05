@@ -11,7 +11,7 @@ const Footer = () => {
                 <div>
                     <h3 className="text-start">Use full links</h3>
                     <ul className="d-block p-0 m-0">
-                        <li>Join course now</li>
+                        <li>You can Join course now</li>
                         <li>See more details</li>
                         <li>Contact us</li>
                         <li>Visit us</li>
@@ -46,9 +46,9 @@ const Footer = () => {
                     </ul>
                 </div>
             </Container>
-            <p className="p-0 m-0">allrights reserved by bipul chandro roy</p>
+            <p className="p-0 m-0">allrights reserved by Farhana Binte Hasan</p>
         </div>
-        
+
         // footer end 
     );
 };
