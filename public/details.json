@@ -1,65 +1,56 @@
 [
     {
-        "id":1,
-        "img":"https://guitarlessons-com.s3.amazonaws.com/media/blog/g-major-chord-hr.png",
-        "name":"Fingering",
-        "description":"Fingerinf is the first and initial stage that should learn every guitarist.It helps to figure out.We teach very carefully and responsiblly this."
-        
+        "id": 1,
+        "img": "https://i.ibb.co/vcXjYNC/c.jpg",
+        "name": "C",
+        "description": "C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system."
     },
     {
-        "id":2,
-        "img":"https://image.shutterstock.com/image-vector/basic-guitar-chord-chart-sheets-260nw-1887155839.jpg",
-        "name":"Chord progression",
-        "description":"Chord is the main part to handle a song to sounds good and feels awesome.There is a regulation system to manage and use chord well"
-        
+        "id": 2,
+        "img": "https://i.ibb.co/3RhccrL/java.jpg",
+        "name": "Java",
+        "description": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible."
     },
     {
-        "id":3,
-        "img":"http://noisecreep.com/files/2013/11/Kirk-Hammett.jpg?w=980&q=75",
-        "name":"Solo learning",
-        "description":"Solo is called the harmony of a song that explains to feel the theme of a song.There are many process to gain various type of solo."
-        
+        "id": 3,
+        "img": "https://i.ibb.co/WnKzpvW/python.jpg",
+        "name": "Python",
+        "description": "Python is an interpreted high-level general-purpose programming language. Its design philosophy emphasizes code readability with its use of significant indentation."
     },
     {
-        "id":4,
-        "img":"https://www.uberchord.com/wp-content/uploads/2015/09/Nashville-IN-Fingerstyle-2013_-2664258483-H.jpg",
-        "name":" Guitar Plucking",
-        "description":"Plucking is another excellent items that sounds awesome and feels more awesome.This item is need to compose every song...so you should learn it"
-        
+        "id": 4,
+        "img": "https://i.ibb.co/XV2pmPL/javascript.png",
+        "name": "JavaScript",
+        "description": "JavaScript, often abbreviated as JS, is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time compiled, and multi-paradigm."
     },
     {
-        "id":5,
-        "img":"https://musicindustryhowtoimages.s3.amazonaws.com/wp-content/uploads/2016/03/12072107/modes-major-scale.jpg",
-        "name":" Guitar Scaling",
-        "description":"There are seven types of basic scales in guitar music.You have to learn all of them to make approach to music world"
-        
+        "id": 5,
+        "img": "https://i.ibb.co/N33FnbC/DBMS.png",
+        "name": "DBMS",
+        "description": "Stands for Database Management System. In short, a DBMS is a database program. ... Some DBMS examples include MySQL, PostgreSQL, Microsoft Access, SQL Server, FileMaker, Oracle, RDBMS, dBASE, Clipper, and FoxPro."
     },
     {
-        "id":6,
-        "img":"https://www.musicgrotto.com/wp-content/uploads/2021/05/c-major-arpeggio-on-guitar-fretboard-1.jpg",
-        "name":"Arpeggios for solo",
-        "description":"An arpeggio is a broken chord, or a chord in which individual notes are struck one by one, rather than all together at once."
-        
+        "id": 6,
+        "img": "https://i.ibb.co/2FpLdcQ/eee.jpg",
+        "name": "Circuit",
+        "description": "An electric circuit is a closed path in which electrons move to produce electric currents. ... It is a very simple concept that incorporates three different components—a source of electrical energy, a device, and a closed loop of conducting material."
     },
     {
-        "id":7,
-        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/NOT_Travis_picking.PNG/350px-NOT_Travis_picking.PNG",
-        "name":" Guitar Rhythm",
-        "description":"Therefore, the basic technique of rhythm guitar is to hold down a series of chords with the fretting hand while strumming or fingerpicking rhythmically with the other hand."
-        
+        "id": 7,
+        "img": "https://i.ibb.co/Lvm9B2q/os.png",
+        "name": "OS",
+        "description": "An operating system is the most important software that runs on a computer. It manages the computer's memory and processes, as well as all of its software and hardware. It also allows you to communicate with the computer without knowing how to speak the computer's language."
     },
     {
-        "id":8,
-        "img":"https://i.pinimg.com/originals/e5/fa/b8/e5fab899a3b7a3ab0cc415c6ba776df6.gif",
-        "name":" Guitar Riff",
-        "description":"A guitar riff is a short repeatable idea used in a song. A guitar riff can be repeated over and over to form the main hook of a song, or it could be played only once in a song."
-        
+        "id": 8,
+        "img": "https://i.ibb.co/SXr6jcc/ai.jpg",
+        "name": "AI",
+        "description": "Artificial intelligence is the simulation of human intelligence processes by machines, especially computer systems. Specific applications of AI include expert systems, natural language processing, speech recognition and machine vision."
     },
     {
-        "id":9,
-        "img":"https://cdn.mos.cms.futurecdn.net/Qn7QrZXdZRpccvRfMnu4vX-1200-80.jpg",
-        "name":"Finger style",
-        "description":"Fingerstyle guitar is the technique of playing the guitar or bass guitar by plucking the strings directly with the fingertips, fingernails, or picks attached to fingers"
-        
+        "id": 9,
+        "img": "https://i.ibb.co/4drPH2z/ml.png",
+        "name": "ML",
+        "description": "Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed."
     }
 ]

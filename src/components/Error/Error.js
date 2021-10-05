@@ -5,7 +5,7 @@ const Error = () => {
 
         // error page start
         <div className="err">
-            <img className="w-100 mx-auto" src="https://cdn.dribbble.com/users/492116/screenshots/1667059/thrillist-404.gif" alt="" />
+            <img className="w-100 mx-auto" src="https://thumbs.gfycat.com/ImperfectPracticalGoldfish-size_restricted.gif" alt="" />
         </div>
         // error page end
     );
