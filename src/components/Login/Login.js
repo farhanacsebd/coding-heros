@@ -8,7 +8,7 @@ const Login = () => {
         // login page start 
         <div>
             <div className="signDiv">
-                <h2 className="text-center mt-5">LOGIN </h2>
+                <h2 className="text-center mt-5">LOGIN IN HERE</h2>
 
             </div>
             <Container>
@@ -29,7 +29,9 @@ const Login = () => {
                     <Button variant="primary" type="submit">
                         Log In
                     </Button>
-
+                    <Link to="/sign">
+                        <p>new user</p>
+                    </Link>
                 </Form>
                 {/* form from react bootstrap components  */}
 

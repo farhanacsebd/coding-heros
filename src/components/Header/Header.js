@@ -30,8 +30,7 @@ const Header = () => {
                         <NavLink className="text-decoration-none mx-3 text-light" to="/about">About Us</NavLink>
 
                     </Nav>
-                    <Button onClick={logIn} className="mx-1" variant="danger">Login</Button>
-                    {/* <Button onClick={signIn} className="mx-1" variant="light">Sign in</Button> */}
+                    <Button onClick={logIn} className="mx-1" variant="danger fw-bold">Login</Button>
                 </Navbar.Collapse>
             </Container>
         </Navbar>

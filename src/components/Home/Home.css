@@ -1,10 +1,10 @@
 .guitarSpan {
     font-size: 60px;
-    color: rgb(233, 199, 7);
+    color: rgb(0, 68, 255);
 }
 
 .guitarSpan:hover {
-    color: rgb(0, 153, 255);
+    color: rgb(30, 235, 218);
 }
 
 .imgHover {
@@ -17,7 +17,7 @@
 
 .backgroundImage {
     min-height: 70vh;
-    background-image: url("https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y29kaW5nfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80");
+    background-image: url("https://www.simplilearn.com/ice9/free_resources_article_thumb/Best-Programming-Languages-to-Start-Learning-Today.jpg");
     object-fit: cover;
     /* clip-path: polygon(0% 0%, 100% 0%, 100% 95%, 20% 80%, 0% 95%); */
     clip-path: ellipse(90% 90% at 50% 0%);
