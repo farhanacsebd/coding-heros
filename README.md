@@ -12,9 +12,9 @@ Project link -https://priceless-swirles-ec64d8.netlify.app
 
 ### Features
 
-- You can learn guitar rhythm
-- You can join in a band through exams in this site
-- You will abale to play guitar well
+- We Offer different types of courses
+- Renowned mentors
+- All of are free of cost
 
 ### What i have done?
 
