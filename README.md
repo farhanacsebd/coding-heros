@@ -1,10 +1,22 @@
-# Project name : learn music easy
+# Project Name : Lerarn Onlinne Guitar
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project link -https://priceless-swirles-ec64d8.netlify.app
 
-## My app feature
+## Technologies
 
-- abc
-- def
-- ghi
+- React bootstrap
+- React
+- Vanila css
+- React Route
+- React Hooks
 
+### Features
+
+- You can learn guitar rhythm
+- You can join in a band through exams in this site
+- You will abale to play guitar well
+
+### What i have done?
+
+- maked it responsive
+- Organized code with comment and code navigation
