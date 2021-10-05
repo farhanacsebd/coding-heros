@@ -1,12 +1,14 @@
-.footerGrid{
+.footerGrid {
     display: grid;
-    grid-template-columns: repeat(4,1fr);
+    grid-template-columns: repeat(3, 1fr);
     grid-gap: 7px;
     text-align: start;
 }
-.cusFooter{
+
+.cusFooter {
     clip-path: ellipse(85% 90% at 50% 100%);
 }
-.bg-custom{
- background: rgb(10, 109, 190);
+
+.bg-custom {
+    background: rgb(10, 109, 190);
 }

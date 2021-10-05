@@ -11,42 +11,29 @@ const Footer = () => {
                 <div>
                     <h3 className="text-start">Use full links</h3>
                     <ul className="d-block p-0 m-0">
-                        <li>You can Join course now</li>
-                        <li>See more details</li>
-                        <li>Contact us</li>
-                        <li>Visit us</li>
-                        <li>Our location</li>
+                        <li>You can join course now</li>
+                        <li>Contact with us</li>
                     </ul>
                 </div>
                 <div>
-                    <h3 className="text-start">Our Plan</h3>
+                    <h3 className="text-start">Course Outline</h3>
                     <ul className="d-block p-0 m-0">
-                        <li>Learn fingering</li>
-                        <li>Learn rhythm</li>
-                        <li>Learn solos</li>
-                        <li>Learn fingerstyle</li>
+                        <li>Mentor Details</li>
+                        <li>Duration - 3 months</li>
+
                     </ul>
                 </div>
-                <div>
-                    <h3 className="text-start">Certification</h3>
-                    <ul className="d-block p-0 m-0">
-                        <li>Learn fingering-yes</li>
-                        <li>Learn rhythm-yes</li>
-                        <li>Learn solos-yes</li>
-                        <li>Learn fingerstyle-yes</li>
-                    </ul>
-                </div>
+
                 <div>
                     <h3 className="text-start">Course details</h3>
                     <ul className="d-block p-0 m-0">
-                        <li>Duration - 3 months</li>
                         <li>Course fee - no</li>
                         <li>Course exams - yes</li>
-                        <li></li>
+
                     </ul>
                 </div>
             </Container>
-            <p className="p-0 m-0">allrights reserved by Farhana Binte Hasan</p>
+            <p className="p-2 m-0">allrights reserved by Farhana Binte Hasan</p>
         </div>
 
         // footer end 

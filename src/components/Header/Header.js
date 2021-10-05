@@ -17,7 +17,7 @@ const Header = () => {
         // nav bar start 
         <Navbar bg="primary" variant="dark" expand="lg">
             <Container>
-                <Navbar.Brand href="#">Codding-Heros</Navbar.Brand>
+                <Navbar.Brand href="#">Coding-Heros</Navbar.Brand>
                 <Navbar.Toggle aria-controls="navbarScroll" />
                 <Navbar.Collapse id="navbarScroll">
                     <Nav
