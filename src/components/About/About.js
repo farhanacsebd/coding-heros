@@ -12,7 +12,7 @@ const About = () => {
 
             {/* about page heading end */}
 
-
+        
         </>
     );
 };

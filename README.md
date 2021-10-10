@@ -1,4 +1,4 @@
-# Project Name : Lerarn Onlinne Guitar
+# Project Name : Coding Heros
 
 Project link -https://priceless-swirles-ec64d8.netlify.app
 
